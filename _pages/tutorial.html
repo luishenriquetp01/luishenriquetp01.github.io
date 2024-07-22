@@ -8,8 +8,8 @@ permalink: '/tutorial.html'
 	<div class="row justify-content-center">
 		<div class="col-md-8">
 			<h4 class="font-weight-bold spanborder"><span>{{page.title}}</span></h4>
-			{% assign posts = site.posts | where:"category","tutorial" %} {% for post
-			in posts %} {% include main-loop-card.html %} {% endfor %}
+			{% assign posts = site.posts | where:"author","sal" %} {% for post in
+			posts %} {% include main-loop-card.html %} {% endfor %}
 		</div>
 	</div>
 </div>
