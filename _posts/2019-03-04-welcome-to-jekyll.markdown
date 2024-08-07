@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Welcome to Jekyll!'
-categories: [Jekyll]
+categories: [Entretenimento]
 image: assets/images/demo1.jpg
 ---
 

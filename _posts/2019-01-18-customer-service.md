@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "What is Jekyll"
+title: 'What is Jekyll'
 author: jane
-categories: [ Jekyll, tutorial ]
+categories: [Economia]
 image: assets/images/11.jpg
 ---
 
